@@ -1,3 +1,3 @@
-
-[A#!/usr/bin/python3[B[D[D[D[D[D[D[D[D[D[D[D[D[def pow(a, b):
+#!/usr/bin/python3
+def pow(a, b):
     return (a ** b)
